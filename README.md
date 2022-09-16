@@ -1,5 +1,7 @@
 # Nitro_Gen
 
-1.) its fast
-2.) it was made by Godfather and K.Dot 
-3.) this is our server (https://discord.gg/wKSnbQGpP3)
+This is prolly the fastest nitro gen made using PYTHON (see how that says python) 
+
+## Need help?
+
+https://discord.gg/wKSnbQGpP3
