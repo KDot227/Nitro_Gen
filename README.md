@@ -1,6 +1,6 @@
 # Nitro_Gen
 
-## cool facts!!!
+## cool_facts!!!
 
 1.) its fast
 2.) it was made by Godfather and K.Dot
